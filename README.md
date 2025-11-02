@@ -45,7 +45,7 @@ http://localhost:5173
 ---
 
 ## Live Demo
-https://app.vercel.app
+[View here](https://tria-assignment-iota.vercel.app/)
 
 ## Design Choices & Assumptions
 
