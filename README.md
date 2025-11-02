@@ -30,7 +30,7 @@ Follow these steps to run the project locally:
 
 ```bash
 # 1️ Clone the repository
-git clone https://github.com/
+git clone https://github.com/abhi123dev/Tria_Assignment
 cd contact-manager
 
 # 2️ Install dependencies
